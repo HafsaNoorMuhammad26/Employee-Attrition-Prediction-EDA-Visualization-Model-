@@ -90,7 +90,7 @@ To understand the key factors behind employee attrition using Exploratory Data A
 1. Clone the repo  
    ```bash
    git clone https://github.com/HafsaNoorMuhammad26/Employee-Attrition-Prediction-EDA-Visualization-Model-.git
-````
+    `````
 
 2. Install dependencies
 
@@ -99,8 +99,10 @@ To understand the key factors behind employee attrition using Exploratory Data A
    ```
 
 3. Run the notebook in Jupyter
-
-
+  ```bash
+   jupyter notebook
+   ```
+   
 ## 👩‍💻 Author
 
 **Hafsa Noor Muhammad**
