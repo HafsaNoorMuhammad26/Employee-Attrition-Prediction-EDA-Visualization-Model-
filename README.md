@@ -100,11 +100,6 @@ To understand the key factors behind employee attrition using Exploratory Data A
 
 3. Run the notebook in Jupyter
 
-   ```bash
-   jupyter notebook
-   ```
-
----
 
 ## 👩‍💻 Author
 
